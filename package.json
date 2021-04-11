@@ -2,7 +2,7 @@
   "name": "momentum-vscode",
   "displayName": "momentum Theme",
   "description": "A dark blue theme for VS Code",
-  "version": "0.2.21",
+  "version": "1.0.1",
   "publisher": "terryfu",
   "icon": "images/logo.png",
   "author": {
