@@ -1,0 +1,55 @@
+{
+  "name": "momentum-vscode",
+  "displayName": "momentum Theme",
+  "description": "A dark blue theme for VS Code",
+  "version": "0.2.20",
+  "publisher": "terryfu",
+  "icon": "images/logo.png",
+  "author": {
+    "name": "Terry Fu",
+    "email": "terryfu33@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/terryfu33/momentum-vscode"
+  },
+  "bugs": {
+    "url": "https://github.com/terryfu33/momentum-vscode/issues",
+    "email": "terryfu33@gmail.com"
+  },
+ 
+  "galleryBanner": {
+    "color": "#171c28",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.18.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Themes",
+    "Dark Theme",
+    "color-theme",
+    "momentum"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "momentum",
+        "uiTheme": "vs-dark",
+        "path": "./themes/momentum-color-theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "@upstatement/eslint-config": "^0.4.2",
+    "@upstatement/prettier-config": "^0.3.0",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.3.0",
+    "eslint-config-prettier": "^6.2.0",
+    "prettier": "^1.18.2",
+    "vsce": "^1.66.0"
+  }
+}
