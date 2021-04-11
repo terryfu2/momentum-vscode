@@ -3,7 +3,7 @@
   Momentum Theme for VS Code
 </h1>
 <p align="center">
-  A minimal, dark blue theme for <a href="">VS Code</a>.
+  A minimal, dark blue theme for <a href="https://marketplace.visualstudio.com/items?itemName=terryfu.momentum-vscode">VS Code</a>.
 </p>
 
 ## Installation via VS Code
