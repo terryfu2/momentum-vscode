@@ -3,7 +3,7 @@
   Momentum Theme for VS Code
 </h1>
 <p align="center">
-  A minimal, dark blue theme for <a href="https://halcyon-theme.netlify.com/">VS Code</a>.
+  A minimal, dark blue theme for <a href="">VS Code</a>.
 </p>
 
 ## Installation via VS Code
@@ -14,4 +14,5 @@
 4. Click **Reload** to reload the editor
 5. Code > Preferences > Color Theme > **Momentum**
 
-<img src = "images/demo.jpg">
+
+![demo](https://raw.githubusercontent.com/terryfu33/momentum-vscode/master/images/demo.jpg)
