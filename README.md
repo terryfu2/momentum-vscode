@@ -11,7 +11,9 @@
 <p align="center">
   A minimal, dark blue theme for <a href="https://marketplace.visualstudio.com/items?itemName=terryfu.momentum-vscode">VS Code</a>.
 </p>
-
+<p align="center">
+ <a href="https://terryfu.ca/other/pages/momentum.html">Page</a>.
+</p>
 ## Installation via VS Code
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
