@@ -17,9 +17,11 @@
     <img alt="Installs" src="https://img.shields.io/visual-studio-marketplace/i/terryfu.momentum-vscode" />
   </a>
 </p>
-<p align="center">
- <a href="https://terryfu.ca/other/pages/momentum.html">Page</a>.
-</p>
+
+
+![demo](https://raw.githubusercontent.com/terryfu33/momentum-vscode/master/images/demo.jpg)
+
+
 ## Installation via VS Code
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
@@ -29,4 +31,6 @@
 5. Code > Preferences > Color Theme > **Momentum**
 
 
-![demo](https://raw.githubusercontent.com/terryfu33/momentum-vscode/master/images/demo.jpg)
+<p align="center">
+ <a href="https://terryfu.ca/other/pages/momentum.html">Page</a>.
+</p>
