@@ -17,7 +17,7 @@
     <img alt="Installs" src="https://img.shields.io/visual-studio-marketplace/i/terryfu.momentum-vscode" />
   </a>
 </p>
-
+  
 
 ![demo](https://raw.githubusercontent.com/terryfu33/momentum-vscode/master/images/demo.jpg)
 
